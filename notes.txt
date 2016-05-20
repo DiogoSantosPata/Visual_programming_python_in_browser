@@ -1,0 +1,12 @@
+# This file keeps some notes related to the on going project
+
+# websocket template was taken from:
+https://github.com/patrickfuller/python-js-bridge
+
+# Diagram uses:
+http://gojs.net
+
+# Keep in mind to "Disable cache" in Chrome's developer tools when modifying server/client related files
+
+## To do:
+- Set data property to the node when text (name) is changed
